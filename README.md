@@ -27,4 +27,5 @@ brew install mongodb-community@5.0
 ### 5.Robo 3T 설치(선택사항)
 [robo 3T 홈페이지](https://robomongo.org/download)<br/>
 위의 링크에서 Robo 3T 설치 (Studio버전이 아니라 일반버전 설치)
-# 다만, 추후에 계획하고자 했던 slangtranslator에 적용시키기에는 크롤링 및 데이터 가공 방식을 수정해야 할 것 같다
+** 다만, 추후에 계획하고자 했던 slangtranslator에 적용시키기에는 크롤링 및 데이터 가공 방식을 수정해야 할 것 같다 **
+
